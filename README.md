@@ -4,6 +4,8 @@ A collection of data science projects I have worked on, both out of interest and
 
 This is mostly maintained as a portfolio for myself, but I hope someone else can find some use for it!
 
+NOTE: contrary to best practice, I won't maintain a develop branch in this repository since there isn't really a meaningful way to test/build the code here
+
 # Repository Structure
 
 ## Interest
